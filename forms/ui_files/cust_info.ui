@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>custInfoWindow</class>
+ <widget class="QMainWindow" name="custInfoWindow">
+  <property name="windowModality">
+   <enum>Qt::WindowModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>950</width>
+    <height>430</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>950</width>
+    <height>430</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>950</width>
+    <height>430</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>ADD NEW CUSTOMER AND REPAIR JOB</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="custom.qrc">
+    <normaloff>:/icons/images/icons/add.svg</normaloff>:/icons/images/icons/add.svg</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#custInfoWindow
+{border-image: url(:/backgrounds/images/backgounds/_8.jpg);
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QGroupBox" name="groupBox">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>16777215</height>
+       </size>
+      </property>
+      <property name="contextMenuPolicy">
+       <enum>Qt::NoContextMenu</enum>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="title">
+       <string>Customer info</string>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QLineEdit" name="lineEditName">
+         <property name="statusTip">
+          <string>Customer Name</string>
+         </property>
+         <property name="placeholderText">
+          <string>Name</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_2">
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLineEdit" name="lineEditMobileNumber">
+           <property name="statusTip">
+            <string>Customer Mobile Number</string>
+           </property>
+           <property name="placeholderText">
+            <string>Mobile 1</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEditMobileNumber_2">
+           <property name="placeholderText">
+            <string>Mobile 2 (Optional)</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <widget class="QTableWidget" name="tableWidgetAddedItems">
+         <property name="enabled">
+          <bool>false</bool>
+         </property>
+         <property name="selectionMode">
+          <enum>QAbstractItemView::NoSelection</enum>
+         </property>
+         <column>
+          <property name="text">
+           <string>MAKE&amp;MODEL</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>KNOWN FAULTS</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>BILL</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>PAID</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>STATUS</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>DATE IN</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>DATE OUT</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>IMEI/SERIAL NO</string>
+          </property>
+         </column>
+         <column>
+          <property name="text">
+           <string>OTHER INFO</string>
+          </property>
+         </column>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QComboBox" name="comboBoxNumberToDelete">
+        <property name="enabled">
+         <bool>false</bool>
+        </property>
+        <property name="statusTip">
+         <string>Select Item to delete</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButtonDeleteItem">
+        <property name="statusTip">
+         <string>Delete Selected Item</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset resource="custom.qrc">
+          <normaloff>:/icons/images/icons/trash.png</normaloff>:/icons/images/icons/trash.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButtonAddnew">
+        <property name="statusTip">
+         <string>Add new job</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset resource="custom.qrc">
+          <normaloff>:/icons/images/icons/plus.svg</normaloff>:/icons/images/icons/plus.svg</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pushButtonSave">
+        <property name="statusTip">
+         <string>Save</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset resource="custom.qrc">
+          <normaloff>:/icons/images/icons/save.png</normaloff>:/icons/images/icons/save.png</iconset>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="custom.qrc"/>
+ </resources>
+ <connections/>
+</ui>

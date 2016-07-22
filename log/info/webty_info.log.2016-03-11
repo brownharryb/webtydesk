@@ -1,0 +1,90 @@
+2016-03-11 11:49:24,627 - __main__ - INFO - Initializing application
+2016-03-11 11:49:24,704 - __main__ - INFO - Starting application
+2016-03-11 11:49:27,733 - __main__ - INFO - Starting splash
+2016-03-11 11:49:36,299 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:36,299 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,000 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,000 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,048 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,048 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,048 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Retrieving record: {'webtypref_item': 'time_stamp'} from webtyprefs
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Retrieving record: {'webtypref_item': 'time_stamp'} from webtyprefs
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Retrieving record: {'webtypref_item': 'time_stamp'} from webtyprefs
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:37,078 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,573 - misc.dbfunctions - INFO - Retrieving all records from webtyprefs
+2016-03-11 11:49:40,573 - misc.dbfunctions - INFO - Retrieving all records from webtyprefs
+2016-03-11 11:49:40,573 - misc.dbfunctions - INFO - Retrieving all records from webtyprefs
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Updating record in webtyprefs
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Updating record in webtyprefs
+2016-03-11 11:49:40,588 - misc.dbfunctions - INFO - Updating record in webtyprefs
+2016-03-11 11:49:40,651 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,651 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:40,651 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Retrieving records from columns: ['phone_name', 'phone_pic_location', 'phone_page_link'] from phones
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Retrieving records from columns: ['phone_name', 'phone_pic_location', 'phone_page_link'] from phones
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Retrieving records from columns: ['phone_name', 'phone_pic_location', 'phone_page_link'] from phones
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,009 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,026 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,056 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,056 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,056 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,056 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,056 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Retrieving all records from staff
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Retrieving all records from staff
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Retrieving all records from staff
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Retrieving all records from staff
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Retrieving all records from staff
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:41,072 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,413 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,427 - misc.dbfunctions - INFO - Retrieving all records from smsaccounts
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - misc.dbfunctions - INFO - Closing db connection
+2016-03-11 11:49:43,444 - send_message_operations - INFO - showing send message form

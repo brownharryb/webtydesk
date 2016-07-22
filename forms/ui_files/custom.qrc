@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/icons/people.png</file>
+    <file>images/icons/internet_earth.png</file>
+    <file>images/icons/database.png</file>
+    <file>images/icons/W1.png</file>
+    <file>images/icons/envelope_plus2.png</file>
+    <file>images/icons/envelope_buy.png</file>
+    <file>images/icons/headphone_edit.png</file>
+    <file>images/icons/headphone.png</file>
+    <file>images/icons/edit_staff.png</file>
+    <file>images/icons/staff.png</file>
+    <file>images/icons/parts.png</file>
+    <file>images/icons/returned.png</file>
+    <file>images/icons/parts.png</file>
+    <file>images/icons/naira.png</file>
+    <file>images/icons/bad.png</file>
+    <file>images/icons/spanner2.png</file>
+    <file>images/icons/log.png</file>
+    <file>images/icons/login.png</file>
+    <file>images/icons/envelope2.png</file>
+    <file>images/icons/search.png</file>
+    <file>images/icons/fixed.png</file>
+    <file>images/icons/ok.png</file>
+    <file>images/icons/search2.png</file>
+    <file>images/icons/trash.png</file>
+    <file>images/icons/save.png</file>
+    <file>images/icons/plus.svg</file>
+    <file>images/icons/message.png</file>
+    <file>images/icons/envelope.png</file>
+    <file>images/icons/add.svg</file>
+    <file>images/icons/update.png</file>
+  </qresource>
+  <qresource prefix="animated">
+    <file>images/animated/pulse.gif</file>
+    <file>images/animated/loading.gif</file>
+  </qresource>
+  <qresource prefix="backgrounds">
+    <file>images/backgounds/login1.jpg</file>
+    <file>images/backgounds/_10.jpg</file>
+    <file>images/backgounds/_11.jpg</file>
+    <file>images/backgounds/_8.jpg</file>
+    <file>images/backgounds/_9.jpg</file>
+    <file>images/backgounds/_7.jpg</file>
+    <file>images/backgounds/_6.jpg</file>
+    <file>images/backgounds/_4.jpg</file>
+    <file>images/backgounds/_5.jpg</file>
+    <file>images/backgounds/_3.jpg</file>
+    <file>images/backgounds/_1.jpg</file>
+    <file>images/backgounds/_2.jpg</file>
+  </qresource>
+</RCC>

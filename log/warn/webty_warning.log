@@ -1,0 +1,1073 @@
+2016-02-27 13:01:12,887 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 1, 12, 780000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:01:37,026 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 1, 36, 940000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:01:37,168 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 1, 36, 940000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:02:03,306 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 2, 3, 215000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:02:03,395 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 2, 3, 215000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:02:03,463 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 2, 3, 215000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:02:03,551 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 2, 3, 215000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:03:37,226 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 3, 37, 148000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:03:37,286 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 3, 37, 148000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:03,688 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 3, 616000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:03,759 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 3, 616000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:46,263 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 46, 48000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:46,348 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 46, 48000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:46,415 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 46, 48000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:05:46,496 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 5, 46, 48000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,648 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,733 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,822 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,871 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,927 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:10,973 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:11,029 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:11,132 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 10, 548000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:15:55,687 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 15, 55, 604000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:16:06,944 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 16, 6, 865000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:16:24,686 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 16, 24, 609000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 13:19:50,453 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 27, 13, 19, 50, 391000), 'webtypref_item': 'time_stamp'} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-27 18:21:54,880 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 18:22:15,703 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 18:23:56,010 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 18:30:57,226 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 18:32:34,716 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 19:58:51,828 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 20:12:39,032 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 21:24:41,515 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 21:25:53,401 - __main__ - WARNING - Database not started.. closing application
+2016-02-27 21:26:25,857 - __main__ - WARNING - Database not started.. closing application
+2016-02-28 07:15:00,407 - __main__ - WARNING - Database not started.. closing application
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:02,375 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '4355356565', 'jobs_other_info': 'additional details', 'jobs_item': 'Amazon Fire HDX 8.9 (2014)', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 08:16:51', 'jobs_customer_id': 1, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:05,862 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 5, 783000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Boma \nItems Added: ['Amazon Fire HDX 8.9 (2014)']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:43,915 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 799000), 'money_medium': 'Cash', 'money_amount': '43545', 'money_other_info': 'for nothing', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:17:44,019 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 17, 43, 925000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N43545 \nPurpose: for nothing'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,125 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 22000), 'money_medium': 'Cash', 'money_amount': '24545345', 'money_other_info': 'for nothing\n', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:18:05,236 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 18, 5, 138000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N24545345 \nPurpose: for nothing\n'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,301 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 226000), 'money_medium': 'Cash', 'money_amount': '42534534', 'money_other_info': 'for nothing 5', 'money_transact_type': 'Spent'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:24,421 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 24, 310000), 'activity_staff': 'Admin', 'activity_info': 'Money Spent N42534534 \nPurpose: for nothing 5'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,517 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 441000), 'money_medium': 'Cash', 'money_amount': '354345', 'money_other_info': 'fsgfgfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:23:57,595 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 23, 57, 529000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N354345 \nPurpose: fsgfgfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,282 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 232000), 'money_medium': 'Cash', 'money_amount': '4544', 'money_other_info': 'fehggdfg', 'money_transact_type': 'Received'} in money
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:51:10,345 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 51, 10, 289000), 'activity_staff': 'Admin', 'activity_info': 'Money Received N4544 \nPurpose: fehggdfg'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:23,085 - misc.dbfunctions - ERROR - Exception for Fetching record{'spare_price': '1000', 'date_added': datetime.datetime(2016, 2, 28, 8, 52, 21, 992000), 'spare_vendor': '', 'spare_quantity': '500', 'spare_name': 'earpiece'} in spareparts
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:52:47,970 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 8, 52, 47, 883000), 'activity_staff': u'Admin', 'activity_info': '\nSparePart deducted \nName: earpiece\nQuantiy Used:1'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 08:54:45,822 - misc.dbfunctions - ERROR - Exception for Retrieving records in phones
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 178, in retrieveAllColumnsVals
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 44, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:45,963 - misc.dbfunctions - ERROR - Exception for Fetching record{'jobs_known_faults': 'known faults', 'jobs_imei_serial': '34545', 'jobs_other_info': 'additional detail', 'jobs_item': 'Alcatel Flash Plus', 'jobs_bill': '0', 'jobs_status': 'pending', 'jobs_bill_paid': '0', 'jobs_date_received': '2016-02-28 13:45:37', 'jobs_customer_id': 2, 'jobs_date_returned': '---'} in repairjobs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-28 13:45:48,335 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 28, 13, 45, 48, 252000), 'activity_staff': u'Admin', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomsy \nItems Added: ['Alcatel Flash Plus']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 158, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range

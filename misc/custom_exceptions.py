@@ -1,0 +1,3 @@
+
+class SiteUnavailableException(Exception):
+    pass

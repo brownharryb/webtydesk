@@ -1,0 +1,208 @@
+2016-02-14 22:13:49,592 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 14, 22, 13, 49, 469000), 'activity_staff': u'Boma Brown', 'activity_info': '\nSent Message Successfully \nNumber: 07068070422\nMessage: test'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 22:13:49,592 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 14, 22, 13, 49, 469000), 'activity_staff': u'Boma Brown', 'activity_info': '\nSent Message Successfully \nNumber: 07068070422\nMessage: test'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 22:13:49,592 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 14, 22, 13, 49, 469000), 'activity_staff': u'Boma Brown', 'activity_info': '\nSent Message Successfully \nNumber: 07068070422\nMessage: test'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 22:13:49,592 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 14, 22, 13, 49, 469000), 'activity_staff': u'Boma Brown', 'activity_info': '\nSent Message Successfully \nNumber: 07068070422\nMessage: test'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 22:13:49,592 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 14, 22, 13, 49, 469000), 'activity_staff': u'Boma Brown', 'activity_info': '\nSent Message Successfully \nNumber: 07068070422\nMessage: test'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-14 23:48:06,782 - misc.dbfunctions - ERROR - Exception for Fetching record{'webtypref_info': "Dear {{name}}\nYour Item '{{item}}' has been fixed. \nPlease come for collection. \nRegards. \nWebty Solutions.", 'webtypref_item': 'fixed_item_sms', 'date_added': datetime.datetime(2016, 2, 14, 23, 48, 6, 695000)} in webtyprefs
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 16:58:10,023 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 16, 58, 9, 954000), 'activity_staff': u'Boma Brown', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomaddf \nItems Added: ['Alcatel Watch']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 16:58:10,023 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 16, 58, 9, 954000), 'activity_staff': u'Boma Brown', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomaddf \nItems Added: ['Alcatel Watch']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 16:58:10,023 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 16, 58, 9, 954000), 'activity_staff': u'Boma Brown', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomaddf \nItems Added: ['Alcatel Watch']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 16:58:10,023 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 16, 58, 9, 954000), 'activity_staff': u'Boma Brown', 'activity_info': "\nAdded Item for Repair \nCustomer Name: Bomaddf \nItems Added: ['Alcatel Watch']."} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 17:31:10,266 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 17, 31, 10, 169000), 'activity_staff': u'Boma Brown', 'activity_info': '\nUpdated Customer \nCustomer Name: Bomaddf'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 17:31:10,266 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 17, 31, 10, 169000), 'activity_staff': u'Boma Brown', 'activity_info': '\nUpdated Customer \nCustomer Name: Bomaddf'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 17:31:10,266 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 17, 31, 10, 169000), 'activity_staff': u'Boma Brown', 'activity_info': '\nUpdated Customer \nCustomer Name: Bomaddf'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-15 17:31:10,266 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 15, 17, 31, 10, 169000), 'activity_staff': u'Boma Brown', 'activity_info': '\nUpdated Customer \nCustomer Name: Bomaddf'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-16 16:03:33,026 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 16, 16, 3, 32, 936000), 'activity_staff': u'Boma Brown', 'activity_info': '\nDatabase was successfully Backed up to \nC:\\Users\\BOMA\\Desktop\\backup\\2016_02_16_16_03_26.sql'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-16 16:03:33,026 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 16, 16, 3, 32, 936000), 'activity_staff': u'Boma Brown', 'activity_info': '\nDatabase was successfully Backed up to \nC:\\Users\\BOMA\\Desktop\\backup\\2016_02_16_16_03_26.sql'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-16 16:03:33,026 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 16, 16, 3, 32, 936000), 'activity_staff': u'Boma Brown', 'activity_info': '\nDatabase was successfully Backed up to \nC:\\Users\\BOMA\\Desktop\\backup\\2016_02_16_16_03_26.sql'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-16 16:03:33,026 - misc.dbfunctions - ERROR - Exception for Fetching record{'date_added': datetime.datetime(2016, 2, 16, 16, 3, 32, 936000), 'activity_staff': u'Boma Brown', 'activity_info': '\nDatabase was successfully Backed up to \nC:\\Users\\BOMA\\Desktop\\backup\\2016_02_16_16_03_26.sql'} in activitylog
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 154, in retrieveRecord
+    returnVal = returnVal[0][0]
+IndexError: list index out of range
+2016-02-16 16:03:57,306 - misc.dbfunctions - ERROR - Exception for Fetching record{'staff_password': 'c71914133fc8ff1a4f46ecc6e4d40a81469cfa19', 'staff_username': 'bomsy'} in staff
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 149, in retrieveRecord
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 43, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-16 16:03:57,306 - misc.dbfunctions - ERROR - Exception for Fetching record{'staff_password': 'c71914133fc8ff1a4f46ecc6e4d40a81469cfa19', 'staff_username': 'bomsy'} in staff
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 149, in retrieveRecord
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 43, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-16 16:03:57,306 - misc.dbfunctions - ERROR - Exception for Fetching record{'staff_password': 'c71914133fc8ff1a4f46ecc6e4d40a81469cfa19', 'staff_username': 'bomsy'} in staff
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 149, in retrieveRecord
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 43, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2016-02-16 16:03:57,306 - misc.dbfunctions - ERROR - Exception for Fetching record{'staff_password': 'c71914133fc8ff1a4f46ecc6e4d40a81469cfa19', 'staff_username': 'bomsy'} in staff
+Traceback (most recent call last):
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 149, in retrieveRecord
+    self.createConnectionAndCursor()
+  File "D:\qt_projects\webty\misc\dbfunctions.py", line 43, in createConnectionAndCursor
+    password=allstrings.databasePassword)
+  File "C:\Python27\lib\site-packages\mysql\connector\__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "C:\Python27\lib\site-packages\mysql\connector\abstracts.py", line 719, in connect
+    self._open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\connection.py", line 206, in _open_connection
+    self._socket.open_connection()
+  File "C:\Python27\lib\site-packages\mysql\connector\network.py", line 475, in open_connection
+    errno=2003, values=(self.get_address(), _strioerror(err)))
+InterfaceError: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
