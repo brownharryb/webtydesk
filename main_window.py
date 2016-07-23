@@ -25,7 +25,7 @@ class MainApp():
         self.webtyLog.info('Starting application')
         self.startUpDatabase()
         self.showSplash()
-        self.timeLine = QtCore.QTimeLine(10000)
+        self.timeLine = QtCore.QTimeLine(20000)
         self.timeLine.valueChanged.connect(self.checkForDb)
         self.timeLine.start()
         self.timeLine.finished.connect(self.removeSplash)
@@ -41,10 +41,9 @@ class MainApp():
                 self.startMain()
                 self.keepChecking = False
             except Exception as e:
-                # print "error message = "+str(e.message)
                 if self.timeLine.currentValue() > 0.9:
                     self.webtyLog.warn('Database not started.. closing application')
-                    self.labelChecking.setText('Please start database and restart app!')
+                    self.labelChecking.setText('Please start MySQL database and restart app!')
                     self.keepChecking = False
         return True
 

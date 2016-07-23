@@ -3,4 +3,4 @@ all_data
 misc/db_config.py
 pulse.gif
 *.pyc
-log
+log/*

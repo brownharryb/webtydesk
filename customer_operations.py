@@ -73,6 +73,7 @@ class CustomerFunctions():
     def okButtonClickedOnAddItem(self):
         data = self.addItemObj.pushButtonOkAction()
         if data == {}:
+            print "input not ok"
             self.addItemObj.addItemWindow.statusBar().showMessage('Please check your inputs and try again!')
             return
         self.addDataToTableInCustomerForm(data)
